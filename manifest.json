@@ -1,0 +1,20 @@
+{
+  "name": "Hikaye Bahçem - Okuma Platformu",
+  "short_name": "Hikaye Bahçem",
+  "description": "7-13 yaş disleksili çocuklar için okuma ve dikkat geliştirme platformu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9E6",
+  "theme_color": "#3B82F6",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "kids"],
+  "lang": "tr"
+}
